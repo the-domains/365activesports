@@ -1,7 +1,7 @@
 name: 365activesports
 favicon: null
-layout_spectrum: 0.23713
-typography_spectrum: 1
+layout_spectrum: 0.20462169381789863
+typography_spectrum: 0.17945232545025647
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#00aeef'
-    - '#61ccf4'
-    - '#a2e1f8'
-    - '#29bbf1'
-  brandStrength: 1
-  lightness: 0.125
-  saturation: 0
-  rhythmicContrast: 1
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.025559384608641267
+  lightness: 0.07998925913125277
+  saturation: 0.6017726566642523
+  rhythmicContrast: 0.9985770594794303
 purpose: []
