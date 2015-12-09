@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.theviolastudio.com/'
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - gear
   - items
 description: 'The 365 Bag is the first device to store your post workout gear and completely segregate it from your other items such as electronics, spare clothes, shoes, accessories, all while completely blocking the spreading of odor and bacteria onto those items. The 365 gear is made from dri-Release fabric with Freshguard.'
-datePublished: '2015-12-09T23:41:12.716Z'
-dateModified: '2015-12-09T23:40:50.302Z'
+datePublished: '2015-12-09T23:44:40.348Z'
+dateModified: '2015-12-09T23:44:33.868Z'
 author: []
 related: []
 app_links: []
@@ -31,6 +30,7 @@ publisher:
   domain: www.theviolastudio.com
   url: 'http://www.theviolastudio.com'
   favicon: 'http://www.theviolastudio.com/favicon.ico'
+url: 365-active-everday/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
